@@ -1,3 +1,11 @@
+<br/>
+<p align="center">
+<a href=" " target="_blank">
+<img src="https://avatars.githubusercontent.com/u/118692557?s=200&v=4" width="180" alt="Meteor logo">
+</a >
+</p >
+<br/>
+
 # Wallet as Sovereign Computer
 
 ## Data Wallet
