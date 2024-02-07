@@ -10,4 +10,4 @@ Meteor HyperCloud is a set of DApp clouds with fine-grained resource control, en
 
 ## Runtime Connector
 
-The data wallet exposes programmable runtimes to DApps, providing easy-to-use Kernelfunctions. Developers can integrate built-in identity, storage, encryption and monetization solutions to power web3 social networks, cloud storage, DAOs, AI data marketplaces and more.
+The data wallet exposes programmable runtimes to DApps, providing easy-to-use Kernel functions. Developers can integrate built-in identity, storage, encryption and monetization solutions to power web3 social networks, cloud storage, DAOs, AI data marketplaces and more.
