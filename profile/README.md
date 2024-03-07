@@ -6,16 +6,18 @@
 </p >
 <br/>
 
-# Wallet as Sovereign Computer
+# Wallet as your sovereign computer
+Meteor is building the next generation of personal computers that are fully owned and controlled by individuals.
+It allows your wallet to store data, run computations and monetize your online everything.
 
-## Data Wallet
+## Data wallet
 
-[Meteor Extension](https://chrome.google.com/webstore/detail/dataverse/kcigpjcafekokoclamfendmaapcljead) is the first gateway to your own computer. It is built upon Dataverse Kernel, supporting Sign-In-with-Ethereum and Object Capability. Users now control encryption keys over data files through Decentralized Key Management and Databases. 
+[Meteor extension](https://chrome.google.com/webstore/detail/dataverse/kcigpjcafekokoclamfendmaapcljead) is a browser extension that provides a secure and private environment for users to manage their digital assets, including identity, data, attestations, credentials and more. It unlocks the possibility for users to own and control their digital footprints, and to monetize their data in a privacy-preserving way.
 
-## HyperCloud
+## Meteor cloud
 
-Meteor HyperCloud is a set of DApp clouds with fine-grained resource control, ensuring cross-app data security. It serves as secure cyberspace & sovereign web for individuals —— your digital footprints are automatically stored in encrypted clouds. 
+[Meteor cloud](https://meteor.computer/) is a web3 personal cloud drive owned by wallets, backed by decentralized data networks, controlled by individuals and attested by blockchains like Ethereum, Polygon, Binance Smart Chain, etc. It also works as a storage layer for DApps to store and access user data while users remain in control of their data.
 
-## Runtime Connector
+## Meteor SDK
 
-The data wallet exposes programmable runtimes to DApps, providing easy-to-use Kernel functions. Developers can integrate built-in identity, storage, encryption and monetization solutions to power web3 social networks, cloud storage, DAOs, AI data marketplaces and more.
+[Meteor SDK](https://github.com/meteor-web3/meteor-sdk) is a JavaScript library that provides a set of APIs for developers to build DApps that can store and access user data in Meteor cloud.
